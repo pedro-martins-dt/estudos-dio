@@ -1,2 +1,2 @@
-# estudos-dio
-Repositório para estudo na DIO
+# Estudos DIO
+Repositório para estudos na DIO
