@@ -1,0 +1,19 @@
+Arquivo para validação da Introdução ao Git/GitHub - Bootcamp Database DIO
+
+Instalação do Git no Ubuntu:
+	*https://git-scm.com/download/linux
+	*Terminal: # add-apt-repository ppa:git-core/ppa # apt update; apt install git
+
+Git bash no terminal no diretiorio;
+
+git init;
+
+git clone;
+
+git status;
+
+git add -> adiciona ao repositório local os arquivos;
+
+git commit -> sempre adicionar comentário do commit;
+
+git pull -> subir as alterações para o diretório no GitHub;		
