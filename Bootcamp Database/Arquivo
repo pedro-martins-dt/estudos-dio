@@ -4,8 +4,6 @@ Instalação do Git no Ubuntu:
 	*https://git-scm.com/download/linux
 	*Terminal: # add-apt-repository ppa:git-core/ppa # apt update; apt install git
 
-Git bash no terminal no diretiorio;
-
 git init;
 
 git clone;
